@@ -15,7 +15,7 @@ Currently Working On
 Nothing: lol
 
 Previously Worked On
--------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
 PvZBFNSysBot: An real-time modding tool for Plants vs. Zombies: Battle for Neighborville on the Nintendo Switch
 ```
 ---
