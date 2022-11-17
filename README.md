@@ -12,7 +12,7 @@ Other_Aliases: NatalieWhatever, Nataliris, natily
 ```csharp
 Currently Working On
 -------------------
-Various_Things: You will find out eventually
+FrostyColorPicker: Color utility plugin for Frosty Editor.
 
 Previously Worked On
 ---------------------------------------------------------------------------------------------------------------
