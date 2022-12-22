@@ -10,17 +10,14 @@ Other_Aliases: NatalieWhatever, Nataliris, natily
 ---
 ## My Repos
 ```csharp
-Currently Working On
+My Works
 -------------------
 FrostyColorPicker: Color utility plugin for Frosty Editor.
-
-Previously Worked On
----------------------------------------------------------------------------------------------------------------
 PvZBFNSysBot: An real-time modding tool for Plants vs. Zombies: Battle for Neighborville on the Nintendo Switch
 ```
 ---
 ## Contact
 ```csharp
-Discord: natily#0313
+Discord: Natalie#0004
 Twitter: @NatalieWhatever
 ```
