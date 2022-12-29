@@ -3,7 +3,7 @@
 Hi, my name is Natalie
 -------------------------------------------------
 Pronouns: She/Her
-Birthday: November 19
+Birthday: November 19th
 Languages: C#, C++
 Aliases: NatalieWhatever, Nataliris, natily
 ```
