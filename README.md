@@ -5,7 +5,7 @@ Hi, my name is Natalie
 Pronouns: She/Her
 Birthday: November 19, 2003
 Languages: C#, C++
-Other_Aliases: NatalieWhatever, Nataliris, natily
+Aliases: NatalieWhatever, Nataliris, natily
 ```
 ---
 ## My Repos
