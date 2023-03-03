@@ -2,7 +2,6 @@
 ```csharp
 Hi, my name is Natalie
 -------------------------------------------------
-Pronouns: She/Her
 Birthday: November 19
 Languages: C#, C++
 Aliases: NatalieWhatever, Nataliris, natily
