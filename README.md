@@ -12,11 +12,11 @@ Aliases: NatalieWhatever, Nataliris, natily
 My Works
 -------------------
 FrostyColorPicker: Color utility plugin for Frosty Editor.
-PvZBFNSysBot: An real-time modding tool for Plants vs. Zombies: Battle for Neighborville on the Nintendo Switch
+PvZGardenWarfareMapLoader: Adds pseudo-private play functionality to Plants vs. Zombies: Garden Warfare on PC.
 ```
 ---
 ## Contact
 ```csharp
-Discord: Natalie#0004
+Discord: nataliewhatevs
 Twitter: @NatalieWhatever
 ```
